@@ -94,6 +94,5 @@ int main() {
 5. Se tudo estiver correto, a saída será:
    ```sh
    Olá, Mundo!
-   Resultado: 200
    ```
 
