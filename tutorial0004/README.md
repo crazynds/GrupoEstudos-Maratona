@@ -1,6 +1,6 @@
-# Tutorial: Laços de Repetição (while e for) em Python e C  
+# 🌟 Tutorial #04 🌟
 
-Os laços de repetição são fundamentais para executar blocos de código várias vezes sem precisar repetir manualmente as mesmas instruções. Hoje, vamos ver como funcionam os laços **while** e **for** em Python e C.
+Os laços de repetição são fundamentais para executar blocos de código várias vezes sem precisar repetir manualmente as mesmas instruções. Hoje, vamos ver como funcionam os laços **while** e **for** em Python e C. 
 
 ---
 
