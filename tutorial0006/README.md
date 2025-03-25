@@ -1,4 +1,4 @@
-# 🌟 Tutorial #05 🌟
+# 🌟 Tutorial #06 🌟
 
 Funções são blocos de código reutilizáveis que ajudam a organizar melhor um programa. Neste tutorial, veremos como criar funções em **Python** e **C**, como funciona a passagem de parâmetros e, em C, a diferença entre passar variáveis normais, vetores e ponteiros.  
 
