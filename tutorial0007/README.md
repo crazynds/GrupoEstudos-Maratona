@@ -1,4 +1,4 @@
-# 🌟 Tutorial #06 🌟
+# 🌟 Tutorial #07 🌟
 
 A formatação de saída é essencial para apresentar informações de forma clara e organizada. Neste tutorial, vamos explorar como **formatar decimais e inteiros** ao exibir valores na tela em **Python** e **C**. Além disso, veremos **como ler uma linha inteira em C usando `scanf`**.  
 
