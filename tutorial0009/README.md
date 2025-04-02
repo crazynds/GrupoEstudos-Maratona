@@ -37,5 +37,5 @@ Ao abordar esses problemas, é fundamental compreender a lógica por trás de ca
 
 ## Desafio Secreto: Balão Extra
 
-Quem leu esse tutorial e quiser ganhar um balão extra, envie um print de cada problema resolvido para mim no privado, caso não tenha resolvido no dia do desafio.
+Quem leu esse tutorial e quiser ganhar um balão extra, envie um print de cada problema resolvido do ultimo desafio para mim no privado, caso não tenha resolvido no dia do desafio.
 

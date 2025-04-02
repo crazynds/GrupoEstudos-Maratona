@@ -249,14 +249,19 @@ Vou deixar uma lista de exercícios e dificuldades para que possam treinar o que
 - https://judge.beecrowd.com/pt/problems/view/1437
 - https://judge.beecrowd.com/pt/problems/view/3407
 
-**Médio**
+**Médio** 
 - https://judge.beecrowd.com/pt/problems/view/2667
 - https://judge.beecrowd.com/pt/problems/view/3428
 - https://judge.beecrowd.com/pt/problems/view/2986
-- https://judge.beecrowd.com/pt/problems/view/2986
+- https://judge.beecrowd.com/pt/problems/view/1029
 
 **Difícil**
 - https://judge.beecrowd.com/pt/problems/view/3433
 - https://judge.beecrowd.com/pt/problems/view/3444
 - https://judge.beecrowd.com/pt/problems/view/3429
 - https://judge.beecrowd.com/pt/problems/view/3002
+
+
+## Desafio Secreto: Balão Extra
+
+Quem leu esse tutorial e quiser ganhar um balão extra, envie um print de cada problema na sessão **Médio** para mim no privado para garantir esse balão. 
