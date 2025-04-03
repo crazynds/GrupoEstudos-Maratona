@@ -1,4 +1,4 @@
-# 🌟 Tutorial #12 🌟
+# 🌟 Tutorial #13 🌟
 
 A matemática é essencial para a programação competitiva. Neste tutorial, veremos **funções matemáticas da biblioteca padrão**, **MDC e MMC**, **Fibonacci** e **números primos**.
 
