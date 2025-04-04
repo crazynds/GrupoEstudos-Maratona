@@ -25,6 +25,7 @@ print(numeros)  # [9, 6, 5, 5, 2, 1]
 ```
 
 📌 **Dica:** Ambos suportam **parâmetros extras** como `reverse=True` para ordenar em ordem decrescente.
+
 📌 **Complexidade**: Tanto `sorted()` quanto `.sort()` utilizam o algoritmo Timsort, que possui complexidade O(n log n).
 
 ---
@@ -71,6 +72,7 @@ int main() {
 ```
 
 📌 **Dica:** `qsort()` pode ordenar qualquer tipo de dado, basta alterar a função de comparação.
+
 📌 **Complexidade**: `qsort()` usa QuickSort, que tem complexidade média O(n log n).
 
 ---
