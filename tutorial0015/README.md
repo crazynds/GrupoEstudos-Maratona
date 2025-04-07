@@ -1,4 +1,4 @@
-# Tutorial: Ponteiros em C 🔧
+# 🌟 Tutorial #15 🌟
 
 Os ponteiros são um dos conceitos mais importantes (e também mais temidos) da linguagem C. Entender bem como eles funcionam é essencial para manipular memória de forma eficiente, trabalhar com arrays, strings, funções e estruturas dinâmicas.
 
