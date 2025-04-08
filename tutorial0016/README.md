@@ -120,6 +120,16 @@ int dequeue(Fila* f) {
 
 ---
 
+
+Problemas que podemos usar filas ou pilhas:
+
+- https://judge.beecrowd.com/pt/problems/view/1062
+- https://judge.beecrowd.com/pt/problems/view/1340
+- https://judge.beecrowd.com/pt/problems/view/1451
+- https://judge.beecrowd.com/pt/problems/view/1068
+- https://judge.beecrowd.com/pt/problems/view/1077
+---
+
 Essas estruturas são fundamentais para a construção de algoritmos eficientes em programação competitiva e no mundo real!
 
 Fiquem ligados para os próximos tutoriais! 💻📚
