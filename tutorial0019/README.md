@@ -64,13 +64,13 @@ Resultado: [
 ]
 ---
 Insere: (3,e) => 7 mod 4 = 3
+// Note que se a chave já existe é feito a substituição do seu valor
 Resultado: [
     0: (8,b) -> (16,c)
     1: 
     2: 
     3: (3,e) -> (7,d)
 ]
-// Note que se a chave já existe é feito a substituição do seu valor
 ---
 Insere: (11,e) => 11 mod 4 = 3
 Resultado: [
