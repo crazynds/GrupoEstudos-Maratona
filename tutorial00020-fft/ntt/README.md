@@ -18,7 +18,7 @@ Para encontrar o produto $R(x) = P(x)Q(x)$, cada termo de $P$ deve multiplicar t
 
 A grande sacada para otimizar esse processo é perceber que existem duas formas de representar o mesmo polinômio:
 
-1. **Representação por Coeficientes:** A lista $$$a_0, a_1, \dots, a_D$$$. É ótima para somar, mas terrível para multiplicar.
+1. **Representação por Coeficientes:** A lista $$a_0, a_1, \dots, a_D$$. É ótima para somar, mas terrível para multiplicar.
 2. **Representação por Valores (Pontos):** Um polinômio de grau $D$ é univocamente definido por **$D+1$ pontos** distintos $(x, y)$.
 
 > **O Insight Fundamental:** Multiplicar polinômios através de seus coeficientes é difícil, mas multiplicar seus valores em pontos específicos é trivial.
